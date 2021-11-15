@@ -1,4 +1,4 @@
-const URL = "http://localhost:8080/test";
+const URL = "https://www.test.juliusmadsen.dk/devops-starter";
  
 function handleHttpErrors(res)
 {
